@@ -1,0 +1,7 @@
+*
+!.gitignore
+!navigation/
+!navigation/*.c
+!navigation/*.csv
+!cards/
+!cards/*.c
